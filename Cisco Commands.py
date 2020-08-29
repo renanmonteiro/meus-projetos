@@ -7,8 +7,8 @@ import re
 import ping2 as p
 
 platform = 'cisco_ios'
-username = r'mla\rmontei2' # edit to reflect
-password = '1qazXSW@3edc'  # edit to reflect
+username = 'xxxx' # edit to reflect
+password = 'xxxx'  # edit to reflect
 
 def date():
         import datetime
